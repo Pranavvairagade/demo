@@ -1,1 +1,3 @@
 create text 1
+name of student pranav
+age of student 23 
