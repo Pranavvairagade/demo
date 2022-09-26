@@ -1,3 +1,17 @@
 today we have done the create one file on the local sysytem and push it to in the remote gitr hub account
 now we have to do the create another file on remote then pull it to yhe our local file
 
+now we have edit the existing file check status step by step . finally push.
+also after commit run the log command 
+
+add
+
+
+git add. 
+git status
+
+
+git commit -m "done "
+git status 
+
+git log 
