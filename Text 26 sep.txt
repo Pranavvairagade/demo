@@ -1,0 +1,2 @@
+Q. create a file on ur local and update the chagenges on remote 
+Q. create a file on ur remote and  update the changes on local 
